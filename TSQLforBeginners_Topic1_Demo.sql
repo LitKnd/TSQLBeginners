@@ -136,7 +136,9 @@ GO
 --If this shortcut doesn't work, you may be using a super old version of SSMS
 --Update it here: https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms
 
-
+-- For Azure Data Studio, you can enable CTRL+U (and other SSMS shortcuts) by adding in the 'SSMS Keymap' extension
+-- by Kevin Cunnane. Instructions on how to do this are...
+-- https://www.bobpusateri.com/archive/2018/12/getting-ssms-keyboard-shortcuts-in-azure-data-studio/ 
 
 
 /********************************************************************************
