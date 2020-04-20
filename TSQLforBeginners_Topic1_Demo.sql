@@ -4,7 +4,7 @@ GitHub: https://github.com/LitKnd/TSQLBeginners
 
 TSQL for Beginners
 
-Topic 1: Hello, world: connecting in SSMS, using databases, SELECT, aliasing. 
+Topic 1: Hello, world: connecting in SSMS, connecting in Azure Data Studio, using databases, SELECT, aliasing. 
 Bonus:   What does 'deprecated' mean?
 
 SOLUTION FILE (no homework for Topic 1)
@@ -19,7 +19,8 @@ GO
 Session Agenda:
 
 	How the course will work
-	Today's demos... Hello, world: connecting in SSMS, using databases, SELECT, aliasing. 
+	Today's demos... Hello, world: connecting in SSMS / Connecting in Azure Data Studio, 
+        using databases, SELECT, aliasing. 
 	Bonus... what does 'deprecated' mean?
 
 *******************************************************************************/
@@ -37,7 +38,7 @@ Things to do:
 
 
 /*******************************************************************************
-Demo: Connecting in SSMS 
+Demo: Connecting in SSMS / Connecting in Azure Data Studio
 *******************************************************************************/
 
 
@@ -131,7 +132,7 @@ USE WideWorldImporters;
 GO
 
 
---Shortcut: CTRL + U
+--Shortcut in SSMS: CTRL + U
 --If this shortcut doesn't work, you may be using a super old version of SSMS
 --Update it here: https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms
 
