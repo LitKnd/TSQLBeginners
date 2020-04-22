@@ -25,10 +25,10 @@ Recordings will automagically appear [in this Redgate University Community Circl
 
 To get started with the course, you will need to have a couple of applications installed. The course doesn't show how to install these tools, but jumps right in under the assumption that you have already installed them successfully.
 
-- [ ] To follow along, you will need an installation of Microsoft SQL Server Developer Edition, which is [free from Microsoft](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
+- Microsoft SQL Server Developer Edition, which is [free from Microsoft](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
   * **Windows**: You probably want to click 'Download now' under where it says 'Developer'
   * **Mac**: You probably want to click "Choose your installation setup" under "Docker", which will eventually take you to this Quickstart page on how to [Run SQL Server container images with Docker](https://docs.microsoft.com/en-us/sql/linux/quickstart-install-connect-docker)
-- [ ] You will also need an installation of either [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio) or [SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms) (both of which are free as well). Most demos will be shown in Azure Data Studio.
+- Either [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio) or [SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms) (both of which are free as well). Most demos will be shown in Azure Data Studio.
   * **Windows**: Take your pick of either.
   * **Mac**: You want Azure Data Studio (SSMS is Windows-only)
 
