@@ -32,6 +32,8 @@ To get started with the course, you will need to have a couple of applications i
   * **Windows**: Take your pick of either.
   * **Mac**: You want Azure Data Studio (SSMS is Windows-only)
 
+*If using Azure Data Studio*, it is very helpful to add the 'SSMS Keymap' extension by Kevin Cunnane. Here is [how to install that](https://www.bobpusateri.com/archive/2018/12/getting-ssms-keyboard-shortcuts-in-azure-data-studio/).
+
 ## Course scripts by session
 
 ### Introducing SELECTs and Aliasing
