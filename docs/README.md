@@ -36,7 +36,7 @@ This course is intended for anyone who wants to learn TSQL. This could be databa
 
 ## Videos
 
-Live classes will air each Wednesday on [YouTube](https://www.youtube.com/redgate).
+Live classes will air each Wednesday on [YouTube](https://www.youtube.com/redgate), generally at 3PM British Summer Time / 10AM Eastern. 
 
 Recordings will automagically appear [in this Redgate University Community Circle Course](https://www.red-gate.com/hub/university/courses/t-sql/tsql-for-beginners)
 
@@ -44,9 +44,8 @@ Recordings will automagically appear [in this Redgate University Community Circl
 
 Need some help with your homework, or just want to chat with others in the course? You can use this Slack channel to chat while attending a course live, or afterward anytime -- don't worry if you have joined the course late, just start where you are.
 
-Join the SQL Community Slack group for discussion: https://t.co/w5LWUuDrqG
-
-Click the + next to 'Channels' and join #tsqlbeginners.
+1. Join the SQL Community Slack group for discussion: [https://t.co/w5LWUuDrqG](https://t.co/w5LWUuDrqG)
+1. Click the + next to 'Channels' and join #tsqlbeginners
 
 ## Pre-requisites
 
