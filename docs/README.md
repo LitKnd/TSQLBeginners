@@ -69,6 +69,31 @@ Bonus topic: What does 'deprecated' mean?
 * Follow along with the introductory demo using [1_SelectAndAlias_Demo.sql](https://github.com/LitKnd/TSQLBeginners/blob/master/1_SelectAndAlias_Demo.sql)
 * Try your hand at the homework for next session using [2_SelectAndAlias_Homework.sql](https://github.com/LitKnd/TSQLBeginners/blob/master/2_SelectAndAlias_Homework.sql)
 
+Video timeline:
+* [00:22](https://www.youtube.com/watch?v=-_8nSjbGQUY&t=22s) Course Syllabus
+* [02:10](https://www.youtube.com/watch?v=-_8nSjbGQUY&t=130s) Notes on what to install to follow along
+* [07:00](https://www.youtube.com/watch?v=-_8nSjbGQUY&t=420s) Basics on using SQL Server Management Studio (SSMS)
+* [08:00](https://www.youtube.com/watch?v=-_8nSjbGQUY&t=480s) Info about the RAISERROR command I use at the top of the scripts
+* [09:49](https://www.youtube.com/watch?v=-_8nSjbGQUY&t=589s) Using the RESTORE DATABASE script
+* [16:11](https://www.youtube.com/watch?v=-_8nSjbGQUY&t=971s) Azure Data Studio (ADS) – why you might want to use this and comparing ADS to SSMS
+* [17:44](https://www.youtube.com/watch?v=-_8nSjbGQUY&t=1064s) Explanation of ‘USE’ and discussion of the concept of “using a database”
+* [20:24](https://www.youtube.com/watch?v=-_8nSjbGQUY&t=1224s) Running our first SELECT statement
+* [22:24](https://www.youtube.com/watch?v=-_8nSjbGQUY&t=1344s) Brief overview of schemas
+* [23:15](https://www.youtube.com/watch?v=-_8nSjbGQUY&t=1395s) Discussion of GO batch separator
+* [25:30](https://www.youtube.com/watch?v=-_8nSjbGQUY&t=1530s) Discussion of semi-colon terminators
+* [27:34](https://www.youtube.com/watch?v=-_8nSjbGQUY&t=1654s) Why “SELECT
+*” is an anti-pattern
+* [32:05](https://www.youtube.com/watch?v=-_8nSjbGQUY&t=1925s) A brief return to SSMS to demo dragging object names and column names over from Object Explorer (this doesn’t work in Azure Data Studio, but it does have good object auto-completion for typing)
+* [35:28](https://www.youtube.com/watch?v=-_8nSjbGQUY&t=2128s) What square[brackets\] do around object names, and how they can allow you to use special characters (with a “stupid pet trick” demo of how to create a database with a space as its name)
+* [39:00](https://www.youtube.com/watch?v=-_8nSjbGQUY&t=2340s) Example of using a column alias with ‘AS’
+* [40:48](https://www.youtube.com/watch?v=-_8nSjbGQUY&t=2448s) Discussion of when you want to use a column alias and why
+* [41:20](https://www.youtube.com/watch?v=-_8nSjbGQUY&t=2480s) Demo of aliasing without the word ‘AS’ – and a warning of how this can be done accidentally
+* [43:09](https://www.youtube.com/watch?v=-_8nSjbGQUY&t=2589s) Demo of aliasing with reversed order and “=” (and a little discussion of ANSI compliance)
+* [47:43](https://www.youtube.com/watch?v=-_8nSjbGQUY&t=2863s) A quick step through of the “quiz” questions in the demo file
+* [51:17](https://www.youtube.com/watch?v=-_8nSjbGQUY&t=3077s) Demo of aliasing a table, and comparing three and two part names
+* [53:30](https://www.youtube.com/watch?v=-_8nSjbGQUY&t=3210s) Recap of the “quiz” questions on table name aliasing
+* [56:08](https://www.youtube.com/watch?v=-_8nSjbGQUY&t=3368s) Brief introduction of next week’s homework
+
 ### Get started with JOINs
 
 *Releasing April 29, 2020* 
