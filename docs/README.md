@@ -1,5 +1,16 @@
 # TSQL for Beginners
 
+## Jump to Section
+
+* [Course Summary](course-summary)
+* [Audience](audience)
+* [Videos](videos)
+* [Course Slack Discussion](course-slack-discussion)
+* [Pre-requisites](pre-requisites)
+* [Session Overview](session-overview)
+
+## Course Summary
+
 This free course introduces you to the Transact SQL language implemented in SQL Server and takes you from newbie to a master of SELECT statements. Each session of the course features a demo introducing a subject and a homework assignment to try on your own. The following session covers sample solutions for the homework previously assigned, then introduces a new subject with more homework.
 
 The course covers:
@@ -15,11 +26,19 @@ The course covers:
 
 This course is intended for anyone who wants to learn TSQL. This could be database administrators, developers, business analysts, students, IT support staff, or anyone who is interested to learn a programming language where they can work with sets of data.
 
-## Videos / Topic Recordings
+## Videos
 
 Live classes will air each Wednesday on [YouTube](https://www.youtube.com/redgate).
 
 Recordings will automagically appear [in this Redgate University Community Circle Course](https://www.red-gate.com/hub/university/courses/t-sql/tsql-for-beginners)
+
+## Course Slack Discussion
+
+Need some help with your homework, or just want to chat with others in the course? You can use this Slack channel to chat while attending a course live, or afterward anytime -- don't worry if you have joined the course late, just start where you are.
+
+Join the SQL Community Slack group for discussion: https://t.co/w5LWUuDrqG
+
+Click the + next to 'Channels' and join #tsqlbeginners.
 
 ## Pre-requisites
 
@@ -31,10 +50,9 @@ To get started with the course, you will need to have a couple of applications i
 - Either [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio) or [SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms) (both of which are free as well). Most demos will be shown in Azure Data Studio.
   * **Windows**: Take your pick of either.
   * **Mac**: You want Azure Data Studio (SSMS is Windows-only)
+  * If using Azure Data Studio, it is very helpful to add the 'SSMS Keymap' extension by Kevin Cunnane. Here is [how to install that](https://www.bobpusateri.com/archive/2018/12/getting-ssms-keyboard-shortcuts-in-azure-data-studio/).
 
-*If using Azure Data Studio*, it is very helpful to add the 'SSMS Keymap' extension by Kevin Cunnane. Here is [how to install that](https://www.bobpusateri.com/archive/2018/12/getting-ssms-keyboard-shortcuts-in-azure-data-studio/).
-
-## Course scripts by session
+## Session Overview
 
 ### Introducing SELECTs and Aliasing
 
