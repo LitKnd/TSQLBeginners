@@ -39,8 +39,8 @@ To get started with the course, you will need to have a couple of applications i
 We cover: Getting going in SQL Server Management Studio or in Azure Data Studio. Using databases. SELECT statements and aliasing. 
 Bonus topic: What does 'deprecated' mean?
 
-* Follow along with the introductory demo using [TSQLforBeginners_Topic1_Demo.sql](https://github.com/LitKnd/TSQLBeginners/blob/master/TSQLforBeginners_Topic1_Demo.sql)
-* Try your hand at the homework for next session using [TSQLforBeginners_Topic2_Homework.sql](https://github.com/LitKnd/TSQLBeginners/blob/master/TSQLforBeginners_Topic2_Homework.sql)
+* Follow along with the introductory demo using [1_SelectAndAlias_Demo.sql](https://github.com/LitKnd/TSQLBeginners/blob/master/1_SelectAndAlias_Demo.sql)
+* Try your hand at the homework for next session using [2_SelectAndAlias_Homework.sql](https://github.com/LitKnd/TSQLBeginners/blob/master/2_SelectAndAlias_Homework.sql)
 
 ### Get started with JOINs
 
