@@ -28,7 +28,7 @@ The course covers:
 * Aggregating data using GROUP BY and CASE statements
 * Common Table Expressions, Subqueries, and Derived tables
 * Scalar and Table Valued User Defined Functions
-* An introduction to Stored Procedure
+* An introduction to Stored Procedures
 
 ## Audience
 
