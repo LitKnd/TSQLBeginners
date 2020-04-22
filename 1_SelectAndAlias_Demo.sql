@@ -1,13 +1,10 @@
 ﻿/******************************************************************************
-Course home: https://www.red-gate.com/hub/university/courses/t-sql/tsql-for-beginners
-GitHub: https://github.com/LitKnd/TSQLBeginners
+Course videos: https://www.red-gate.com/hub/university/courses/t-sql/tsql-for-beginners
+Course scripts: https://litknd.github.io/TSQLBeginners 
 
-TSQL for Beginners
+Introducing SELECTs and Aliasing
 
-Topic 1: Hello, world: connecting in SSMS, connecting in Azure Data Studio, using databases, SELECT, aliasing. 
-Bonus:   What does 'deprecated' mean?
-
-SOLUTION FILE (no homework for Topic 1)
+Demo file -- the course begins here!
 *****************************************************************************/
 
 /* Doorstop */
@@ -16,23 +13,16 @@ GO
 
 
 /*******************************************************************************
-Session Agenda:
+Agenda:
 
 	How the course will work
 	Today's demos... Hello, world: connecting in SSMS / Connecting in Azure Data Studio, 
         using databases, SELECT, aliasing. 
 	Bonus... what does 'deprecated' mean?
+    Homework
 
 *******************************************************************************/
 
-
-/*******************************************************************************
-Things to do:
-    1) Your homework for next session: TSQLforBeginners_Topic2_Homework.sql 
-    2) Join the SQL Community Slack group for discussion https://t.co/w5LWUuDrqG
-	   Click the + next to 'Channels' and join #tsqlbeginners
-
-*******************************************************************************/
 
 
 
@@ -134,7 +124,7 @@ GO
 
 --Shortcut in SSMS: CTRL + U
 --If this shortcut doesn't work, you may be using a super old version of SSMS
---Update it here: https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms
+
 
 -- For Azure Data Studio, you can enable CTRL+U (and other SSMS shortcuts) by adding in the 'SSMS Keymap' extension
 -- by Kevin Cunnane. Instructions on how to do this are...

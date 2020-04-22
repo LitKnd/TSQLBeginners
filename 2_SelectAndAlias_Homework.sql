@@ -1,13 +1,13 @@
 ﻿/******************************************************************************
-Course home: https://www.red-gate.com/hub/university/courses/t-sql/tsql-for-beginners
-GitHub: https://github.com/LitKnd/TSQLBeginners
+Course videos: https://www.red-gate.com/hub/university/courses/t-sql/tsql-for-beginners
+Course scripts: https://litknd.github.io/TSQLBeginners 
 
-TSQL for Beginners
+Introducing SELECTs and Aliasing
 
-Topic 2:  SELECT FROM table WHERE
-This is the topic's HOMEWORK file
+This is your HOMEWORK file
 
-For best results,  work through this homework before watching suggested solutions in the next topic
+For best results,  work through this homework and test running the queries (learn by "doing" when you can)
+
 Need some help?
 	Join the SQL Community Slack group for discussion: https://t.co/w5LWUuDrqG
 	Click the + next to 'Channels' and join #tsqlbeginners
