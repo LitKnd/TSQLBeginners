@@ -1,6 +1,6 @@
 # TSQL for Beginners
 
-This free course introduces you to the Transact SQL language implemented in SQL Server and takes you from newbie to a master of SELECT statements. Each "topic" of the course features a demo introducing a subject and a homework assignment to try on your own. The following topic goes over sample solutions for the homework previously assigned, then introduces a new subject with more homework.
+This free course introduces you to the Transact SQL language implemented in SQL Server and takes you from newbie to a master of SELECT statements. Each session of the course features a demo introducing a subject and a homework assignment to try on your own. The following session covers sample solutions for the homework previously assigned, then introduces a new subject with more homework.
 
 The course covers:
 
@@ -32,12 +32,51 @@ To get started with the course, you will need to have a couple of applications i
   * **Windows**: Take your pick of either.
   * **Mac**: You want Azure Data Studio (SSMS is Windows-only)
 
-## Course scripts by topic
+## Course scripts by session
 
-### Topic 1
+### Introducing SELECTs and Aliasing
 
 We cover: Getting going in SQL Server Management Studio or in Azure Data Studio. Using databases. SELECT statements and aliasing. 
 Bonus topic: What does 'deprecated' mean?
 
 * Follow along with the introductory demo using [TSQLforBeginners_Topic1_Demo.sql](https://github.com/LitKnd/TSQLBeginners/blob/master/TSQLforBeginners_Topic1_Demo.sql)
 * Try your hand at the homework for next session using [TSQLforBeginners_Topic2_Homework.sql](https://github.com/LitKnd/TSQLBeginners/blob/master/TSQLforBeginners_Topic2_Homework.sql)
+
+### Get started with JOINs
+
+*Releasing April 29, 2020* 
+
+We cover sample solutions for 'SELECTS and Aliasing', then introduce inner joins outer joins (left, right, full), cross joins.
+
+### Learn GROUP BY and CASE
+*Releasing May 6, 2020* 
+
+We through sample solutions for JOINs, then introduce GROUP BY clauses and CASE statements.
+
+### CTEs, Subqueries, Derived Tables, Oh My!
+*Releasing May 13, 2020*
+
+We'll go through sample solutions for the GROUP BY and CASE homework, then dig into differnet ways to nest/combine queries in your queries: Common Table Expressions, Subqueries, and Derived Tables
+
+### Oh No, it's Scalar User Defined Functions
+
+*Releasing May 20, 2020*
+
+We'll talk through sample solutions for the previous week, then give an introduction to making code reusable using functions. We'll include big-picture information on why functions are controversial in SQL Server and how to be successful with them.
+
+### Table Valued Functions and a little CROSS APPLY
+
+*Releasing May 27, 2020*
+
+We'll chat through solutions for the scalar function homework, then TVFs puts the "fun" in functions. No, really, they do!
+
+### Ranking, Numbering, and Running Totals with Windowing Functions
+
+*Releasing June 3, 2020*
+
+We'll wrap up our discussion of functions by working through the homework, then it's time for another favorite: Windowing Functions!
+
+### Stored Procedures
+*Releasing June 10, 2020* 
+
+In our last session, we'll go through our homework on window functions, then do a gentle final introduction to Stored Procedures. No homework this session, just ideas on how to move forward with your learning from here.
