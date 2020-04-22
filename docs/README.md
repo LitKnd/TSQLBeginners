@@ -2,12 +2,20 @@
 
 ## Jump to Section
 
-* [Course Summary](course-summary)
-* [Audience](audience)
-* [Videos](videos)
-* [Course Slack Discussion](course-slack-discussion)
-* [Pre-requisites](pre-requisites)
-* [Session Overview](session-overview)
+* [Course Summary](#course-summary)
+* [Audience](#audience)
+* [Videos](#videos)
+* [Course Slack Discussion](#course-slack-discussion)
+* [Pre-requisites](#pre-requisites)
+* [Session Overview](#session-overview)
+  * [Introducing SELECTs and Aliasing](#introducing-selects-and-aliasing)
+  * [Get started with JOINs](#get-started-with-joins)
+  * [Learn GROUP BY and CASE](#learn-group-by-and-case)
+  * [CTEs, Subqueries, Derived Tables, Oh My!](#ctes-subqueries-derived-tables-oh-my)
+  * [Oh No, it’s Scalar User Defined Functions](#oh-no-its-scalar-user-defined-functions)
+  * [Table Valued Functions and a little CROSS APPLY](#table-valued-functions-and-a-little-cross-apply)
+  * [Ranking, Numbering, and Running Totals with Windowing Functions](#ranking-numbering-and-running-totals-with-windowing-functions)
+  * [Stored Procedures](#stored-procedures)
 
 ## Course Summary
 
