@@ -105,6 +105,35 @@ We cover sample solutions for 'SELECTS and Aliasing', then introduce inner joins
 
 **Try your hand at the homework** with [5_Joins_Homework.sql](https://github.com/LitKnd/TSQLBeginners/blob/master/5_Joins_Homework.sql)
 
+Video timeline:
+
+* [00:52](https://www.youtube.com/watch?v=r61wTGxcjP0&t=52s) Overview of the course files on GitHub
+* [01:30](https://www.youtube.com/watch?v=r61wTGxcjP0&t=90s) View of the Azure Data Studio Jupyter notebook as it displays in GitHub
+* [03:25](https://www.youtube.com/watch?v=r61wTGxcjP0&t=205s) Using the WideWorldImporters database
+* [03:40](https://www.youtube.com/watch?v=r61wTGxcjP0&t=220s) Solution to Question 1 in 2\_SelectAndAlias\_Solutions.sql
+* [05:11](https://www.youtube.com/watch?v=r61wTGxcjP0&t=311s) What execution plans are and why I'm showing you some
+* [08:40](https://www.youtube.com/watch?v=r61wTGxcjP0&t=520s) the sp\_help procedure, and why it's useful
+* [10:00](https://www.youtube.com/watch?v=r61wTGxcjP0&t=600s) Computed Columns
+* [12:30](https://www.youtube.com/watch?v=r61wTGxcjP0&t=750s) Solution to Question 2 in 2\_SelectAndAlias\_Solutions.sql
+* [15:25](https://www.youtube.com/watch?v=r61wTGxcjP0&t=925s) Solution to Question 3 in 2\_SelectAndAlias\_Solutions.sql (and the controversy of NULLS, with an overview of NVARCHAR for good measure)
+* [22:54](https://www.youtube.com/watch?v=r61wTGxcjP0&t=1374s) ANSI NULLS and why you shouldn't turn it off
+* [24:44](https://www.youtube.com/watch?v=r61wTGxcjP0&t=1484s) Solution to Question 4 in 2\_SelectAndAlias\_Solutions.sql
+* [28:00](https://www.youtube.com/watch?v=r61wTGxcjP0&t=1680s) Solution to Question 5 in 2\_SelectAndAlias\_Solutions.sql
+* [30:23](https://www.youtube.com/watch?v=r61wTGxcjP0&t=1823s) Solution to Question 6 in 2\_SelectAndAlias\_Solutions.sql and a discussion of collation
+* [37:31](https://www.youtube.com/watch?v=r61wTGxcjP0&t=2251s) Solution to Question 7 in 2\_SelectAndAlias\_Solutions.sql and an intro to ORDER BY
+* [41:52](https://www.youtube.com/watch?v=r61wTGxcjP0&t=2512s) Solution to Question 8 in 2\_SelectAndAlias\_Solutions.sql with intro to OFFSET and FETCH
+* [44:19](https://www.youtube.com/watch?v=r61wTGxcjP0&t=2659s) Demo that your TSQL syntax generally doesn't determine a specific execution plan
+* [46:19](https://www.youtube.com/watch?v=r61wTGxcjP0&t=2779s) Solution to Question 9 in 2\_SelectAndAlias\_Solutions.sql
+* [49:40](https://www.youtube.com/watch?v=r61wTGxcjP0&t=2980s) Review of where column aliases DON'T work
+* [51:22](https://www.youtube.com/watch?v=r61wTGxcjP0&t=3082s) JOINs discussion begins here!
+* [53:00](https://www.youtube.com/watch?v=r61wTGxcjP0&t=3180s) Overview of the joins sample database and an explanation of the Jupyter notebook
+* [54:50](https://www.youtube.com/watch?v=r61wTGxcjP0&t=3290s) INNER join: matching rows from both tables
+* [59:37](https://www.youtube.com/watch?v=r61wTGxcjP0&t=3577s) LEFT OUTER join: rows from the 'left' table with matching rows from the 'right' table when present
+* [01:01:48](https://www.youtube.com/watch?v=r61wTGxcjP0&t=3708s) RIGHT OUTER join: rows from the 'right' table with matching rows from the 'left' table when present
+* [01:04:44](https://www.youtube.com/watch?v=r61wTGxcjP0&t=3884s) FULL OUTER join: return all rows from each 'side', matching where possible
+* [01:07:18](https://www.youtube.com/watch?v=r61wTGxcjP0&t=4038s) Simplify our data a bit, and then CROSS JOIN
+* [01:09:40](https://www.youtube.com/watch?v=r61wTGxcjP0&t=4180s) Recap of the joins and info about homework for next time
+
 ### Learn GROUP BY and CASE
 *Releasing May 6, 2020* 
 
