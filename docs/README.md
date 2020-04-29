@@ -66,8 +66,9 @@ To get started with the course, you will need to have a couple of applications i
 We cover: Getting going in SQL Server Management Studio or in Azure Data Studio. Using databases. SELECT statements and aliasing. 
 Bonus topic: What does 'deprecated' mean?
 
-* Follow along with the introductory demo using [1_SelectAndAlias_Demo.sql](https://github.com/LitKnd/TSQLBeginners/blob/master/1_SelectAndAlias_Demo.sql)
-* Try your hand at the homework for next session using [2_SelectAndAlias_Homework.sql](https://github.com/LitKnd/TSQLBeginners/blob/master/2_SelectAndAlias_Homework.sql)
+**Follow along with the introductory demo** using [1_SelectAndAlias_Demo.sql](https://github.com/LitKnd/TSQLBeginners/blob/master/1_SelectAndAlias_Demo.sql)
+
+**Tackle the homework for next session** using [2_SelectAndAlias_Homework.sql](https://github.com/LitKnd/TSQLBeginners/blob/master/2_SelectAndAlias_Homework.sql)
 
 Video timeline:
 * [00:22](https://www.youtube.com/watch?v=-_8nSjbGQUY&t=22s) Course Syllabus
@@ -96,9 +97,11 @@ Video timeline:
 
 ### Get started with JOINs
 
-*Releasing April 29, 2020* 
-
 We cover sample solutions for 'SELECTS and Aliasing', then introduce inner joins outer joins (left, right, full), cross joins.
+
+**Follow along with the demo** using [4_Joins_DiagramsForHomework.ipynb](https://github.com/LitKnd/TSQLBeginners/blob/master/4_Joins_DiagramsForHomework.ipynb) -- this is a Jupyter notebook file which will open in Azure Data Studio
+
+**Try your hand at the homework** with [5_Joins_Homework.sql](https://github.com/LitKnd/TSQLBeginners/blob/master/5_Joins_Homework.sql)
 
 ### Learn GROUP BY and CASE
 *Releasing May 6, 2020* 
