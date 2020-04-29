@@ -9,7 +9,7 @@
 * [Pre-requisites](#pre-requisites)
 * [Session Overview](#session-overview)
   * [Introducing SELECTs and Aliasing](#introducing-selects-and-aliasing)
-  * [Get started with JOINs](#get-started-with-joins)
+  * [Solutions for SELECT Homework and Introduction to JOINs](#solutions-for-select-homework-and-introduction-to-joins)
   * [Learn GROUP BY and CASE](#learn-group-by-and-case)
   * [CTEs, Subqueries, Derived Tables, Oh My!](#ctes-subqueries-derived-tables-oh-my)
   * [Oh No, it’s Scalar User Defined Functions](#oh-no-its-scalar-user-defined-functions)
@@ -95,9 +95,11 @@ Video timeline:
 * [53:30](https://www.youtube.com/watch?v=-_8nSjbGQUY&t=3210s) Recap of the “quiz” questions on table name aliasing
 * [56:08](https://www.youtube.com/watch?v=-_8nSjbGQUY&t=3368s) Brief introduction of next week’s homework
 
-### Get started with JOINs
+### Solutions for SELECT Homework and Introduction to JOINs
 
 We cover sample solutions for 'SELECTS and Aliasing', then introduce inner joins outer joins (left, right, full), cross joins.
+
+**Sample solutions for 'SELECTS and Aliasing'** [3_SelectAndAlias_Solutions.sql](https://github.com/LitKnd/TSQLBeginners/blob/master/3_SelectAndAlias_Solutions.sql)
 
 **Follow along with the demo** using [4_Joins_DiagramsForHomework.ipynb](https://github.com/LitKnd/TSQLBeginners/blob/master/4_Joins_DiagramsForHomework.ipynb) -- this is a Jupyter notebook file which will open in Azure Data Studio
 
