@@ -99,7 +99,7 @@ Video timeline:
 
 We cover sample solutions for 'SELECTS and Aliasing', then introduce inner joins outer joins (left, right, full), cross joins.
 
-**Sample solutions for 'SELECTS and Aliasing'** [3_SelectAndAlias_Solutions.sql](https://github.com/LitKnd/TSQLBeginners/blob/master/3_SelectAndAlias_Solutions.sql)
+**Sample solutions for 'SELECTS and Aliasing'** are in [3_SelectAndAlias_Solutions.sql](https://github.com/LitKnd/TSQLBeginners/blob/master/3_SelectAndAlias_Solutions.sql)
 
 **Follow along with the demo** using [4_Joins_DiagramsForHomework.ipynb](https://github.com/LitKnd/TSQLBeginners/blob/master/4_Joins_DiagramsForHomework.ipynb) -- this is a Jupyter notebook file which will open in Azure Data Studio
 
