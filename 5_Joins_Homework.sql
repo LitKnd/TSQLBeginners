@@ -129,10 +129,10 @@ T3.Q6
 Return three columns: CountryName, StateProvinceName, StateProvinceId
 List every possible combination of:
       * CountryName
-      * StateProvinceName, StateProvinceId
+      * StateProvinceName, StateProvinceID
 
 Order the results by:
-    CountryName, StateProvinceName, StateProvinceId
+    CountryName, StateProvinceName, StateProvinceID
 
 Application.Countries has 190 rows,  Application.StateProvinces has 53 rows
 So this should return 190 x 53 = 10070 rows
