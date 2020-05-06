@@ -10,7 +10,7 @@
 * [Session Overview](#session-overview)
   * [Introducing SELECTs and Aliasing](#introducing-selects-and-aliasing)
   * [Solutions for SELECT Homework and Introduction to JOINs](#solutions-for-select-homework-and-introduction-to-joins)
-  * [Learn GROUP BY and CASE](#learn-group-by-and-case)
+  * [Solutions for JOINs Homework and Learn GROUP BY and CASE](#solutions-for-joins-homework-and-learn-group-by-and-case)
   * [CTEs, Subqueries, Derived Tables, Oh My!](#ctes-subqueries-derived-tables-oh-my)
   * [Oh No, it’s Scalar User Defined Functions](#oh-no-its-scalar-user-defined-functions)
   * [Table Valued Functions and a little CROSS APPLY](#table-valued-functions-and-a-little-cross-apply)
@@ -134,10 +134,16 @@ Video timeline:
 * [01:07:18](https://www.youtube.com/watch?v=r61wTGxcjP0&t=4038s) Simplify our data a bit, and then CROSS JOIN
 * [01:09:40](https://www.youtube.com/watch?v=r61wTGxcjP0&t=4180s) Recap of the joins and info about homework for next time
 
-### Learn GROUP BY and CASE
-*Releasing May 6, 2020* 
+### Solutions for JOINs Homework and Learn GROUP BY and CASE
 
-We through sample solutions for JOINs, then introduce GROUP BY clauses and CASE statements.
+We step through sample solutions for JOINs homework, then introduce GROUP BY clauses and CASE statements.
+
+**Sample solutions for JOINs homework** are in [6_Joins_Solutions.sql](https://github.com/LitKnd/TSQLBeginners/blob/master/6_Joins_Solutions.sql)
+
+**Follow along with the demo** using [7_GroupingAndCase_DiagramsForHomework.ipynb](https://github.com/LitKnd/TSQLBeginners/blob/master/7_GroupingAndCase_DiagramsForHomework.ipynb) -- this is a Jupyter notebook file which will open in Azure Data Studio
+
+**Try your hand at the homework** with [8_GroupingAndCase_Homework.sql](https://github.com/LitKnd/TSQLBeginners/blob/master/8_GroupingAndCase_Homework.sql)
+
 
 ### CTEs, Subqueries, Derived Tables, Oh My!
 *Releasing May 13, 2020*
