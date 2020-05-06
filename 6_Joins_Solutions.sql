@@ -124,22 +124,21 @@ The query should return 189 rows.
 --Pattern: OUTER JOIN + WHERE clause filter
 
 /*
-https://www.microsoftpressstore.com/articles/article.aspx?p=2201633&seqNum=3
+https://docs.microsoft.com/en-us/sql/t-sql/queries/select-transact-sql 
 
 Logical Query Processing Order
 
     FROM
-
+    ON
+    JOIN
     WHERE
-
     GROUP BY
-
+    WITH CUBE or WITH ROLLUP
     HAVING
-
     SELECT
-
+    DISTINCT
     ORDER BY
-
+    TOP
 */
 
 SELECT c.CountryName, c.CountryID
