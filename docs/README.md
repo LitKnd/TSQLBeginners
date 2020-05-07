@@ -144,6 +144,30 @@ We step through sample solutions for JOINs homework, then introduce GROUP BY cla
 
 **Try your hand at the homework** with [8_GroupingAndCase_Homework.sql](https://github.com/LitKnd/TSQLBeginners/blob/master/8_GroupingAndCase_Homework.sql)
 
+Video timeline:
+
+
+ *  [00:00](https://www.youtube.com/watch?v=iPBNS_3639s&t=0s) Showing the scripts covered in the syllabus 
+ *  [01:40](https://www.youtube.com/watch?v=iPBNS_3639s&t=100s) Recapping the tables used in the homework in 6\_Joins\_Solutions.sql and how to know which join columns to use on tables 
+ *  [06:40](https://www.youtube.com/watch?v=iPBNS_3639s&t=400s) Solution to Question 1 in 6\_Joins\_Solutions.sql 
+ *  [11:16](https://www.youtube.com/watch?v=iPBNS_3639s&t=676s) Solution to Question 2 in 6\_Joins\_Solutions.sql (left and right outer joins) 
+ *  [15:20](https://www.youtube.com/watch?v=iPBNS_3639s&t=920s) Solution to Question 3 in 6\_Joins\_Solutions.sql 
+ *  [23:50](https://www.youtube.com/watch?v=iPBNS_3639s&t=1430s) Solution to Question 4 in 6\_Joins\_Solutions.sql 
+ *  [15:22](https://www.youtube.com/watch?v=iPBNS_3639s&t=922s) Solution to Question 5 in 6\_Joins\_Solutions.sql 
+ *  [27:00](https://www.youtube.com/watch?v=iPBNS_3639s&t=1620s) Solution to Question 6 in 6\_Joins\_Solutions.sql 
+ *  [18:18](https://www.youtube.com/watch?v=iPBNS_3639s&t=1098s) Solution to Question 7 in 6\_Joins\_Solutions.sql 
+ *  [33:30](https://www.youtube.com/watch?v=iPBNS_3639s&t=2010s) Introduction to GROUP BY and Case begins with an overview of logical processing order 
+ *  [33:50](https://www.youtube.com/watch?v=iPBNS_3639s&t=2030s) Setting up the same table in 7\_GroupingAndCase\_DiagramsForHomework.ipynb (a Jupyter notebook you can open and use in Azure Data Studio) 
+ *  [35:48](https://www.youtube.com/watch?v=iPBNS_3639s&t=2148s) GROUP BY and COUNT() 
+ *  [37:55](https://www.youtube.com/watch?v=iPBNS_3639s&t=2275s) GROUP BY and MAX() 
+ *  [39:07](https://www.youtube.com/watch?v=iPBNS_3639s&t=2347s) GROUP BY and MIN() 
+ *  [40:25](https://www.youtube.com/watch?v=iPBNS_3639s&t=2425s) GROUP BY and AVG() with a discussion of rounding INTs 
+ *  [43:09](https://www.youtube.com/watch?v=iPBNS_3639s&t=2589s) GROUP BY and HAVING 
+ *  [46:40](https://www.youtube.com/watch?v=iPBNS_3639s&t=2800s) CASE - the "CASE colname when" syntax 
+ *  [49:16](https://www.youtube.com/watch?v=iPBNS_3639s&t=2956s) CASE - the "CASE WHEN condition" syntax 
+ *  [50:31](https://www.youtube.com/watch?v=iPBNS_3639s&t=3031s) CASE - the "CASE WHEN condition" syntax with compound logic in the condition, with an example of concatenation and notes on NULL's impact on combining strings 
+ *  [53:23](https://www.youtube.com/watch?v=iPBNS_3639s&t=3203s) Combining GROUP BY and CASE 
+ *  [55:53](https://www.youtube.com/watch?v=iPBNS_3639s&t=3353s) Brief overview of homework
 
 ### CTEs, Subqueries, Derived Tables, Oh My!
 *Releasing May 13, 2020*
