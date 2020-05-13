@@ -11,7 +11,7 @@
   * [Introducing SELECTs and Aliasing](#introducing-selects-and-aliasing)
   * [Solutions for SELECT Homework and Introduction to JOINs](#solutions-for-select-homework-and-introduction-to-joins)
   * [Solutions for JOINs Homework and Learn GROUP BY and CASE](#solutions-for-joins-homework-and-learn-group-by-and-case)
-  * [CTEs, Subqueries, Derived Tables, Oh My!](#ctes-subqueries-derived-tables-oh-my)
+  * [CTEs, Subqueries, Derived Tables, Oh My!](#solutions-for-group-by-and-case-then-ctes-subqueries-derived-tables-oh-my)
   * [Oh No, it’s Scalar User Defined Functions](#oh-no-its-scalar-user-defined-functions)
   * [Table Valued Functions and a little CROSS APPLY](#table-valued-functions-and-a-little-cross-apply)
   * [Ranking, Numbering, and Running Totals with Windowing Functions](#ranking-numbering-and-running-totals-with-windowing-functions)
@@ -169,10 +169,16 @@ Video timeline:
  *  [53:23](https://www.youtube.com/watch?v=iPBNS_3639s&t=3203s) Combining GROUP BY and CASE 
  *  [55:53](https://www.youtube.com/watch?v=iPBNS_3639s&t=3353s) Brief overview of homework
 
-### CTEs, Subqueries, Derived Tables, Oh My!
-*Releasing May 13, 2020*
+### Solutions for GROUP BY and CASE; then CTEs, Subqueries, Derived Tables, Oh My!
 
 We'll go through sample solutions for the GROUP BY and CASE homework, then dig into differnet ways to nest/combine queries in your queries: Common Table Expressions, Subqueries, and Derived Tables
+
+**Sample solutions** are in [8_GroupingAndCase_Homework.sql](https://github.com/LitKnd/TSQLBeginners/blob/master/8_GroupingAndCase_Homework.sql)
+
+**Follow along with the demo** using [9_GroupingAndCase_Solutions.sql](https://github.com/LitKnd/TSQLBeginners/blob/master/9_GroupingAndCase_Solutions.sql)
+
+**Try your hand at the homework** with [11_CTEsSubqueriesDerivedTables_Homework.sql](https://github.com/LitKnd/TSQLBeginners/blob/master/11_CTEsSubqueriesDerivedTables_Homework.sql)
+
 
 ### Oh No, it's Scalar User Defined Functions
 
