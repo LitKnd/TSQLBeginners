@@ -11,7 +11,7 @@
   * [Introducing SELECTs and Aliasing](#introducing-selects-and-aliasing)
   * [Solutions for SELECT Homework and Introduction to JOINs](#solutions-for-select-homework-and-introduction-to-joins)
   * [Solutions for JOINs Homework and Learn GROUP BY and CASE](#solutions-for-joins-homework-and-learn-group-by-and-case)
-  * [CTEs, Subqueries, Derived Tables, Oh My!](#solutions-for-group-by-and-case-then-ctes-subqueries-derived-tables-oh-my)
+  * [Solutions for Group By and CASE; then CTEs, Subqueries, Derived Tables, Oh My!](#solutions-for-group-by-and-case-then-ctes-subqueries-derived-tables-oh-my)
   * [Oh No, it’s Scalar User Defined Functions](#oh-no-its-scalar-user-defined-functions)
   * [Table Valued Functions and a little CROSS APPLY](#table-valued-functions-and-a-little-cross-apply)
   * [Ranking, Numbering, and Running Totals with Windowing Functions](#ranking-numbering-and-running-totals-with-windowing-functions)
