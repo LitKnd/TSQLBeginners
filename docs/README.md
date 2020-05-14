@@ -179,8 +179,6 @@ We'll go through sample solutions for the GROUP BY and CASE homework, then dig i
 
 **Try your hand at the homework** with [11_CTEsSubqueriesDerivedTables_Homework.sql](https://github.com/LitKnd/TSQLBeginners/blob/master/11_CTEsSubqueriesDerivedTables_Homework.sql)
 
-Video timeline:
-
 Video timeline: 
  *  [00:20](https://www.youtube.com/watch?v=CF4NAcXuvgQ&t=20s) Accidental demo of a bug in Azure Data Studio where a connection "goes bad" 
  *  [07:08](https://www.youtube.com/watch?v=CF4NAcXuvgQ&t=428s) Solution to Q1 from 9\_GroupingAndCase\_Solutions.sql with a discussion of data types and the AVG function 
