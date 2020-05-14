@@ -179,6 +179,24 @@ We'll go through sample solutions for the GROUP BY and CASE homework, then dig i
 
 **Try your hand at the homework** with [11_CTEsSubqueriesDerivedTables_Homework.sql](https://github.com/LitKnd/TSQLBeginners/blob/master/11_CTEsSubqueriesDerivedTables_Homework.sql)
 
+Video timeline:
+
+Video timeline: 
+ *  [00:20](https://www.youtube.com/watch?v=CF4NAcXuvgQ&t=20s) Accidental demo of a bug in Azure Data Studio where a connection "goes bad" 
+ *  [07:08](https://www.youtube.com/watch?v=CF4NAcXuvgQ&t=428s) Solution to Q1 from 9\_GroupingAndCase\_Solutions.sql with a discussion of data types and the AVG function 
+ *  [10:30](https://www.youtube.com/watch?v=CF4NAcXuvgQ&t=630s) Solution to Q2 from 9\_GroupingAndCase\_Solutions.sql - discussion of COUNT ALL vs COUNT DISTINCT 
+ *  [14:06](https://www.youtube.com/watch?v=CF4NAcXuvgQ&t=846s) Solution to Q3 from 9\_GroupingAndCase\_Solutions.sql - discussion showing that multiple syntaxes can result in the same query execution plan being used behind the scenes 
+ *  [18:16](https://www.youtube.com/watch?v=CF4NAcXuvgQ&t=1096s) Solution to Q4 from 9\_GroupingAndCase\_Solutions.sql - discussion of HAVING clauses 
+ *  [21:05](https://www.youtube.com/watch?v=CF4NAcXuvgQ&t=1265s) Solution to Q5 form 9\_GroupingAndCase\_Solutions.sql - working with CASE 
+ *  [24:29](https://www.youtube.com/watch?v=CF4NAcXuvgQ&t=1469s) Solution to Q6 from 9\_GroupingAndCase\_Solutions.sql - which solution do you like better? Comparing a CASE solution and a COUNT solution 
+ *  [28:28](https://www.youtube.com/watch?v=CF4NAcXuvgQ&t=1708s) Bonus topic - using EXCEPT and INTERSECT to compare result sets from different ways to write a query 
+ *  [31:43](https://www.youtube.com/watch?v=CF4NAcXuvgQ&t=1903s) Demo on CTEs, Subqueries, and Derived tables begin: setting up sample data 
+ *  [34:00](https://www.youtube.com/watch?v=CF4NAcXuvgQ&t=2040s) An example problem query -- why HAVING isn't enough and we need to get more complex 
+ *  [36:21](https://www.youtube.com/watch?v=CF4NAcXuvgQ&t=2181s) Introduction to Common Table Expressions (CTEs) 
+ *  [40:03](https://www.youtube.com/watch?v=CF4NAcXuvgQ&t=2403s) More with CTEs: you may use multiples, and they may refer to a prior CTE \*[41:50](https://www.youtube.com/watch?v=CF4NAcXuvgQ&t=2510s) Derived table example 
+ *  [43:43](https://www.youtube.com/watch?v=CF4NAcXuvgQ&t=2623s) Correlated subquery example 
+ *  [47:54](https://www.youtube.com/watch?v=CF4NAcXuvgQ&t=2874s) Subquery in the select example 
+ *  [51:40](https://www.youtube.com/watch?v=CF4NAcXuvgQ&t=3100s) Setup for next week's homework, 11\_CTEsSubqueriesDerivedTables\_Homework.sql
 
 ### Oh No, it's Scalar User Defined Functions
 
