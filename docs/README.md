@@ -200,11 +200,11 @@ Video timeline:
 
 This time, we talk through sample solutions for the previous week, then give an introduction to making code reusable using functions. We'll include big-picture information on why functions are controversial in SQL Server and how to be successful with them.
 
-**Sample solutions** are in [11_CTEsSubqueriesDerivedTables_Homework.sql](https://github.com/LitKnd/TSQLBeginners/blob/master/11_CTEsSubqueriesDerivedTables_Homework.sql)
+**Sample solutions** are in [12_CTEsSubqueriesDerivedTables_Solutions.sql](https://github.com/LitKnd/TSQLBeginners/blob/master/12_CTEsSubqueriesDerivedTables_Solutions.sql)
 
-**Follow along with the demo** using [12_CTEsSubqueriesDerivedTables_Solutions.sql](https://github.com/LitKnd/TSQLBeginners/blob/master/12_CTEsSubqueriesDerivedTables_Solutions.sql)
+**Follow along with the demo** using [13_ScalarUDFs_Demo.sql](https://github.com/LitKnd/TSQLBeginners/blob/master/13_ScalarUDFs_Demo.sql)
 
-**Try your hand at the homework** with [13_ScalarUDFs_Demo.sql](https://github.com/LitKnd/TSQLBeginners/blob/master/13_ScalarUDFs_Demo.sql)
+**Try your hand at the homework** with [14_ScalarUDFs_Homework.sql](https://github.com/LitKnd/TSQLBeginners/blob/master/14_ScalarUDFs_Homework.sql)
 
 ### Table Valued Functions and a little CROSS APPLY
 
