@@ -12,7 +12,7 @@
   * [Solutions for SELECT Homework and Introduction to JOINs](#solutions-for-select-homework-and-introduction-to-joins)
   * [Solutions for JOINs Homework and Learn GROUP BY and CASE](#solutions-for-joins-homework-and-learn-group-by-and-case)
   * [Solutions for Group By and CASE; then CTEs, Subqueries, Derived Tables, Oh My!](#solutions-for-group-by-and-case-then-ctes-subqueries-derived-tables-oh-my)
-  * [Oh No, it’s Scalar User Defined Functions](#oh-no-its-scalar-user-defined-functions)
+  * [Solutions for CTEs and Friends, then Oh No, it’s Scalar User Defined Functions](#solutions-for-ctes-and-friends-then-oh-no-its-scalar-user-defined-functions)
   * [Table Valued Functions and a little CROSS APPLY](#table-valued-functions-and-a-little-cross-apply)
   * [Ranking, Numbering, and Running Totals with Windowing Functions](#ranking-numbering-and-running-totals-with-windowing-functions)
   * [Stored Procedures](#stored-procedures)
@@ -196,11 +196,15 @@ Video timeline:
  *  [47:54](https://www.youtube.com/watch?v=CF4NAcXuvgQ&t=2874s) Subquery in the select example 
  *  [51:40](https://www.youtube.com/watch?v=CF4NAcXuvgQ&t=3100s) Setup for next week's homework, 11\_CTEsSubqueriesDerivedTables\_Homework.sql
 
-### Oh No, it's Scalar User Defined Functions
+### Solutions for CTEs and Friends, then Oh No, it's Scalar User Defined Functions
 
-*Releasing May 20, 2020*
+This time, we talk through sample solutions for the previous week, then give an introduction to making code reusable using functions. We'll include big-picture information on why functions are controversial in SQL Server and how to be successful with them.
 
-We'll talk through sample solutions for the previous week, then give an introduction to making code reusable using functions. We'll include big-picture information on why functions are controversial in SQL Server and how to be successful with them.
+**Sample solutions** are in [11_CTEsSubqueriesDerivedTables_Homework.sql](https://github.com/LitKnd/TSQLBeginners/blob/master/11_CTEsSubqueriesDerivedTables_Homework.sql)
+
+**Follow along with the demo** using [12_CTEsSubqueriesDerivedTables_Solutions.sql](https://github.com/LitKnd/TSQLBeginners/blob/master/12_CTEsSubqueriesDerivedTables_Solutions.sql)
+
+**Try your hand at the homework** with [13_ScalarUDFs_Demo.sql](https://github.com/LitKnd/TSQLBeginners/blob/master/13_ScalarUDFs_Demo.sql)
 
 ### Table Valued Functions and a little CROSS APPLY
 
