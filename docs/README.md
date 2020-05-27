@@ -13,7 +13,7 @@
   * [Solutions for JOINs Homework and Learn GROUP BY and CASE](#solutions-for-joins-homework-and-learn-group-by-and-case)
   * [Solutions for Group By and CASE; then CTEs, Subqueries, Derived Tables, Oh My!](#solutions-for-group-by-and-case-then-ctes-subqueries-derived-tables-oh-my)
   * [Solutions for CTEs and Friends, then Oh No, it’s Scalar User Defined Functions](#solutions-for-ctes-and-friends-then-oh-no-its-scalar-user-defined-functions)
-  * [Table Valued Functions and a little CROSS APPLY](#table-valued-functions-and-a-little-cross-apply)
+  * [Solutions for Scalar UDFs, then Table Valued Functions and a little CROSS APPLY](#solutions-for-scalar-udfs-then-table-valued-functions-and-a-little-cross-apply)
   * [Ranking, Numbering, and Running Totals with Windowing Functions](#ranking-numbering-and-running-totals-with-windowing-functions)
   * [Stored Procedures](#stored-procedures)
 
@@ -206,11 +206,15 @@ This time, we talk through sample solutions for the previous week, then give an 
 
 **Try your hand at the homework** with [14_ScalarUDFs_Homework.sql](https://github.com/LitKnd/TSQLBeginners/blob/master/14_ScalarUDFs_Homework.sql)
 
-### Table Valued Functions and a little CROSS APPLY
+### Solutions for Scalar UDFs, then Table Valued Functions and a little CROSS APPLY
 
-*Releasing May 27, 2020*
+We'll chat through solutions for the Scalar User Defined Function (UDFs) challenges, then I'll show how Table Valued Functions (TVFs) put the "fun" in functions. No, really, they do! We'll also cover a bit of CROSS APPLY as we discuss TVFs.
 
-We'll chat through solutions for the scalar function homework, then TVFs puts the "fun" in functions. No, really, they do!
+**Sample solutions** are in [15_ScalarUDFs_Solutions.sql](https://github.com/LitKnd/TSQLBeginners/blob/master/15_ScalarUDFs_Solutions.sql)
+
+**Follow along with the demo** using [16_TVFs_Demo.sql](https://github.com/LitKnd/TSQLBeginners/blob/master/16_TVFs_Demo.sql)
+
+**Try your hand at the homework** with [17_TVFs_Homework.sql](https://github.com/LitKnd/TSQLBeginners/blob/master/17_TVFs_Homework.sql)
 
 ### Ranking, Numbering, and Running Totals with Windowing Functions
 
