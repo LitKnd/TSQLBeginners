@@ -14,7 +14,7 @@
   * [Solutions for Group By and CASE; then CTEs, Subqueries, Derived Tables, Oh My!](#solutions-for-group-by-and-case-then-ctes-subqueries-derived-tables-oh-my)
   * [Solutions for CTEs and Friends, then Oh No, it’s Scalar User Defined Functions](#solutions-for-ctes-and-friends-then-oh-no-its-scalar-user-defined-functions)
   * [Solutions for Scalar UDFs, then Table Valued Functions and a little CROSS APPLY](#solutions-for-scalar-udfs-then-table-valued-functions-and-a-little-cross-apply)
-  * [Ranking, Numbering, and Running Totals with Windowing Functions](#ranking-numbering-and-running-totals-with-windowing-functions)
+  * [Solutions for TVFs, then Ranking, Numbering, and Running Totals with Windowing Functions](#solutions-for-tvfs-then-ranking-numbering-and-running-totals-with-windowing-functions)
   * [Stored Procedures](#stored-procedures)
 
 ## Course Summary
@@ -216,11 +216,16 @@ We'll chat through solutions for the Scalar User Defined Function (UDFs) challen
 
 **Try your hand at the homework** with [17_TVFs_Homework.sql](https://github.com/LitKnd/TSQLBeginners/blob/master/17_TVFs_Homework.sql)
 
-### Ranking, Numbering, and Running Totals with Windowing Functions
-
-*Releasing June 3, 2020*
+### Solutions for TVFs, then Ranking, Numbering, and Running Totals with Windowing Functions
 
 We'll wrap up our discussion of functions by working through the homework, then it's time for another favorite: Windowing Functions!
+
+**Sample solutions** are in [18_TVFs_Solutions.sql](https://github.com/LitKnd/TSQLBeginners/blob/master/18_TVFs_Solutions.sql)
+
+**Follow along with the demo** using [19_WindowFunctions_Demo.sql](https://github.com/LitKnd/TSQLBeginners/blob/master/19_WindowFunctions_Demo.sql)
+
+**Try your hand at the homework** with [19_WindowFunctions_Demo.sql](https://github.com/LitKnd/TSQLBeginners/blob/master/19_WindowFunctions_Demo.sql)
+
 
 ### Stored Procedures
 *Releasing June 10, 2020* 
