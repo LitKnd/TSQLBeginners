@@ -46,7 +46,7 @@ GO
 
 
 /* 
-T2.Q1 
+Q1 
 
 Write a query that SELECTS all the rows from Application.People
 Return all columns in the table
@@ -65,7 +65,7 @@ GO
 
 
 /* 
-T2.Q2
+Q2
 
 
 Write a query that SELECTS all the rows from Application.People
@@ -86,7 +86,7 @@ GO
 
 
 /* 
-T2.Q3
+Q3
 
 Write a query that SELECTS all the rows from Application.People
 Return rows for ONLY three columns:
@@ -117,7 +117,7 @@ GO
 
 
 /* 
-T2.Q4
+Q4
 
 Write a query that SELECTS all the rows from Application.People
 Return rows for ONLY three columns:
@@ -141,7 +141,7 @@ GO
 
 
 /* 
-T2.Q5
+Q5
 
 Write a query that SELECTS all the rows from Application.People
 Return rows for ONLY three columns:
@@ -164,7 +164,7 @@ GO
 
 
 /* 
-T2.Q6
+Q6
 
 Write a query that SELECTS all the rows from Application.People
 Return rows for ONLY three columns:
@@ -184,7 +184,7 @@ GO
 
 
 /* 
-T2.Q7
+Q7
 
 Write a query that SELECTS all the rows from Application.People
 Return rows for ONLY three columns:
@@ -208,7 +208,7 @@ GO
 
 
 /* 
-T2.Q8
+Q8
 
 Write a query that SELECTS all the rows from Application.People
 Return rows for ONLY two columns:
@@ -233,7 +233,7 @@ GO
 
 
 /* 
-T2.Q9
+Q9
 
 Write a query that SELECTS all the rows from Application.People
 Just like Q8...

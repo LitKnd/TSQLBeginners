@@ -22,7 +22,7 @@ DROP SECURITY POLICY IF EXISTS [Application].[FilterCustomersBySalesTerritoryRol
 GO
 
 /* 
-T7.Q1  
+Q1  
 
 This one has multiple parts: 
     1) write a single statement table valued function (TVF)
@@ -123,7 +123,7 @@ Part 2:
 
 
 /*
-T7.Q3
+Q3
  
 Table valued functions can take multiple paramaters, and return more than one column
 Also, some built in Dynamic Management Views are TVFs
@@ -161,7 +161,7 @@ Return rows...
 
 
 /*
-T7.Q4 Two parter - write a TVF, then use it in a query
+Q4 Two parter - write a TVF, then use it in a query
 
 Q4 a)
     Create a single statement table valued function named dbo.CustomersByStateAndCountry
@@ -202,7 +202,7 @@ Q4 b) Write a query that selects all columns and rows from dbo.CustomersByStateA
 
 
 /*
-T7.Q5 This builds on the previous question and is a THREE parter (but not too hard if you finished that one)
+Q5 This builds on the previous question and is a THREE parter (but not too hard if you finished that one)
 This is the same as the previous question but...
 
 Q5 a)

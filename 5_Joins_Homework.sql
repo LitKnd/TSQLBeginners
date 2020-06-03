@@ -40,7 +40,7 @@ GO
 
 
 /* 
-T3.Q1 
+Q1 
 Return two columns: 
     StateProvinceName, CountryName
 
@@ -59,7 +59,7 @@ This should return 53 rows.
 
 
 /* 
-T3.Q2
+Q2
 Return two columns: 
     StateProvinceName, CountryName
 
@@ -78,7 +78,7 @@ and one with a RIGHT OUTER JOIN
 
 
 /* 
-T3.Q3
+Q3
 Return one column: 
     CountryName
 
@@ -94,7 +94,7 @@ The query should return 189 rows.
 
 
 /* 
-T3.Q4
+Q4
 Return one column: 
     CountryName
 
@@ -109,7 +109,7 @@ This should return one row.
 
 
 /* 
-T3.Q5
+Q5
 Return two columns: 
     CountryName, StateProvinceName
 Return rows for all CountryNames and related StateProvinceNames
@@ -125,7 +125,7 @@ Return rows for all CountryNames and related StateProvinceNames
 
 
 /* 
-T3.Q6
+Q6
 Return three columns: CountryName, StateProvinceName, StateProvinceId
 List every possible combination of:
       * CountryName
@@ -146,7 +146,7 @@ So this should return 190 x 53 = 10070 rows
 
 
 /* 
-T3.Q7
+Q7
 
 SELECT four columns:
     Column 1: The CountryName for CountryID = 100

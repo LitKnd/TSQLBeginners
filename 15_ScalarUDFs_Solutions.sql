@@ -22,7 +22,7 @@ DROP SECURITY POLICY IF EXISTS [Application].[FilterCustomersBySalesTerritoryRol
 GO
 
 /* 
-T6.Q1
+Q1
 
 Script out the definition of the function [Website].[CalculateCustomerPrice] to a new window
 
@@ -47,7 +47,7 @@ Documentation on which functions are "inlinable" here: https://docs.microsoft.co
 
 
 /* 
-T6.Q2
+Q2
 
 Write a query using the [Website].[CalculateCustomerPrice] function in the WHERE clause:
 
@@ -75,7 +75,7 @@ WHERE [Website].[CalculateCustomerPrice] ( c.CustomerID, il.StockItemID, '2016-0
 GO
 
 /* 
-T6.Q3
+Q3
 
 Build on the query in the previous question...
 
@@ -118,7 +118,7 @@ GO
 
 
 /* 
-T6.Q4
+Q4
 
 This query uses the same tables as the previous two questions, it may be useful to copy and paste your FROM/JOINs
 
@@ -152,7 +152,7 @@ GO
 
 
 /* 
-T6.Q5  
+Q5  
 
 This one is a 3 parter: write a function, write a query using the function, write the equivalent query NOT using the function.
 

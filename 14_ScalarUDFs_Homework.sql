@@ -23,7 +23,7 @@ GO
 
 
 /* 
-T6.Q1
+Q1
 
 Script out the definition of the function [Website].[CalculateCustomerPrice] to a new window
 
@@ -40,7 +40,7 @@ you will be using it in the next questions.
 
 
 /* 
-T6.Q2
+Q2
 
 Write a query using the [Website].[CalculateCustomerPrice] function in the WHERE clause:
 
@@ -64,7 +64,7 @@ This should return one row.
 
 
 /* 
-T6.Q3
+Q3
 
 Build on the query in the previous question...
 
@@ -101,7 +101,7 @@ This should return 532 rows.
 
 
 /* 
-T6.Q4
+Q4
 
 This query uses the same tables as the previous two questions, it may be useful to copy and paste your FROM/JOINs
 
@@ -132,7 +132,7 @@ This should return zero rows
 
 
 /* 
-T6.Q5  
+Q5  
 
 This one is a 3 parter: write a function, write a query using the function, write the equivalent query NOT using the function.
 
@@ -171,7 +171,7 @@ Part 3:
 
 
 /* 
-T6.Q6
+Q6
 
 This one is also a 3 parter: write a function, write a query using the function, write the equivalent query NOT using the function.
 

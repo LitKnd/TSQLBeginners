@@ -30,7 +30,7 @@ GO
 
 
 /* 
-T3.Q1 
+Q1 
 Return two columns: 
     StateProvinceName, CountryName
 
@@ -70,7 +70,7 @@ GO
 
 
 /* 
-T3.Q2
+Q2
 Return two columns: 
     StateProvinceName, CountryName
 
@@ -112,7 +112,7 @@ GO
 
 
 /* 
-T3.Q3
+Q3
 Return one column: 
     CountryName
 
@@ -180,7 +180,7 @@ GO
 
 
 /* 
-T3.Q4
+Q4
 Return one column: 
     CountryName
 
@@ -196,7 +196,7 @@ GO
 
 
 /* 
-T3.Q5
+Q5
 Return two columns: 
     CountryName, StateProvinceName
 Return rows for all CountryNames and related StateProvinceNames
@@ -220,7 +220,7 @@ GO
 
 
 /* 
-T3.Q6
+Q6
 Return three columns: CountryName, StateProvinceName, StateProvinceId
 List every possible combination of:
       * CountryName
@@ -244,7 +244,7 @@ GO
 
 
 /* 
-T3.Q7
+Q7
 
 SELECT four columns:
     Column 1: The CountryName for CountryID = 100

@@ -16,7 +16,7 @@ GO
 
 
 /* 
-T4.Q1
+Q1
 
 Using the Sales.OrderLines table
 Aggregate the average of the Quantity column for the entire table
@@ -49,7 +49,7 @@ GO
 
 
 /* 
-T4.Q2
+Q2
 
 Using the Application.People table
 SELECT the count of all phone numbers in the table AND the count of unique phone numbers in the table
@@ -84,7 +84,7 @@ GO
 
 
 /* 
-T4.Q3
+Q3
 
 Using the Sales.Orders table and Sales.OrderLines tables (inner join on OrderID)
 
@@ -135,7 +135,7 @@ GO
 
 
 /* 
-T4.Q4
+Q4
 This builds on the previous question, so take your query and modify it (or start fresh if you prefer)
 
 Using the Sales.Orders table and Sales.OrderLines tables (inner join on OrderID)
@@ -183,7 +183,7 @@ GO
 
 
 /* 
-T4.Q5
+Q5
 
 Using only the Application.People table
 
@@ -211,7 +211,7 @@ GO
 
 
 /* 
-T4.Q6
+Q6
 
 Using the Sales.Orders table and Sales.Customers table
     (inner join on CustomerID)

@@ -30,7 +30,7 @@ GO
 
 
 /* 
-T4.Q1
+Q1
 
 Using the Sales.OrderLines table
 
@@ -56,7 +56,7 @@ Your query should return one row
 
 
 /* 
-T4.Q2
+Q2
 
 Using the Application.People table
 
@@ -84,7 +84,7 @@ Tips:
 
 
 /* 
-T4.Q3
+Q3
 
 Using the Sales.Orders table and Sales.OrderLines tables (inner join on OrderID)
 
@@ -116,7 +116,7 @@ The query should return 5 rows
 
 
 /* 
-T4.Q4
+Q4
 This builds on the previous question, so take your query and modify it (or start fresh if you prefer)
 
 Using the Sales.Orders table and Sales.OrderLines tables (inner join on OrderID)
@@ -152,7 +152,7 @@ The query should return 3 rows
 
 
 /* 
-T4.Q5
+Q5
 
 Using only the Application.People table
 
@@ -179,7 +179,7 @@ The query should return 19 rows
 
 
 /* 
-T4.Q6
+Q6
 
 Using the Sales.Orders table and Sales.Customers table
     (inner join on CustomerID)
