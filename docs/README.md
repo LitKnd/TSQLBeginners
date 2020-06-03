@@ -224,7 +224,7 @@ We'll wrap up our discussion of functions by working through the homework, then 
 
 **Follow along with the demo** using [19_WindowFunctions_Demo.sql](https://github.com/LitKnd/TSQLBeginners/blob/master/19_WindowFunctions_Demo.sql)
 
-**Try your hand at the homework** with [19_WindowFunctions_Demo.sql](https://github.com/LitKnd/TSQLBeginners/blob/master/19_WindowFunctions_Demo.sql)
+**Try your hand at the homework** with [20_WindowFunctions_Homework.sql](https://github.com/LitKnd/TSQLBeginners/blob/master/20_WindowFunctions_Homework.sql)
 
 
 ### Stored Procedures
