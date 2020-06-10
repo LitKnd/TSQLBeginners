@@ -39,11 +39,13 @@ The query should return 36 rows
 SELECT c.CustomerName,
        ct.TransactionDate,
        ct.TransactionAmount,
-       SUM(ct.TransactionAmount) OVER (PARTITION BY c.CustomerID ORDER BY ct.TransactionDate ASC) AS RunningTotalByDate
+       SUM(ct.TransactionAmount) OVER (PARTITION BY ct.CustomerID ORDER BY ct.TransactionDate ASC) AS RunningTotalByDate
 FROM Sales.CustomerTransactions AS ct
     JOIN Sales.Customers AS c
         ON ct.CustomerID = c.CustomerID
 WHERE c.CustomerID = 1057;
+
+
 
 --Since we are returning this for only one customer, do we need the "partition by"?
 SELECT c.CustomerName,
@@ -253,7 +255,7 @@ GO
 
 /* Q5
 Table change!
-Using the Sales.Sales.Customers and Sales.Invoices tables
+Using the Sales.Customers and Sales.Invoices tables
     joined on CustomerID
 
 

@@ -164,7 +164,7 @@ The query should return 263 rows
 
 Note: we're using a differen t table in this one...
 
-Using the Sales.Sales.Customers and Sales.Invoices tables
+Using the Sales.Customers and Sales.Invoices tables
     joined on CustomerID
 
 
