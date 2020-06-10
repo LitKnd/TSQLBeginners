@@ -15,7 +15,7 @@
   * [Solutions for CTEs and Friends, then Oh No, it’s Scalar User Defined Functions](#solutions-for-ctes-and-friends-then-oh-no-its-scalar-user-defined-functions)
   * [Solutions for Scalar UDFs, then Table Valued Functions and a little CROSS APPLY](#solutions-for-scalar-udfs-then-table-valued-functions-and-a-little-cross-apply)
   * [Solutions for TVFs, then Ranking, Numbering, and Running Totals with Windowing Functions](#solutions-for-tvfs-then-ranking-numbering-and-running-totals-with-windowing-functions)
-  * [Stored Procedures](#stored-procedures)
+  * [Solutions for Windowing Functions, then Stored Procedures](#solutions-for-windowing-functions-then-stored-procedures)
 
 ## Course Summary
 
@@ -227,7 +227,14 @@ We'll wrap up our discussion of functions by working through the homework, then 
 **Try your hand at the homework** with [20_WindowFunctions_Homework.sql](https://github.com/LitKnd/TSQLBeginners/blob/master/20_WindowFunctions_Homework.sql)
 
 
-### Stored Procedures
-*Releasing June 10, 2020* 
+### Solutions for Windowing Functions, then Stored Procedures
 
-In our last session, we'll go through our homework on window functions, then do a gentle final introduction to Stored Procedures. No homework this session, just ideas on how to move forward with your learning from here.
+In our last session, we'll go through our homework on window functions, then do a gentle introduction to Stored Procedures. Want to try the stored procedure homework yourself before seeing the solutions? That's toally fine, you can pause the video at that point.
+
+**Sample solutions for Windowing Functions** are in [21_WindowFunctions_Solutions.sql](https://github.com/LitKnd/TSQLBeginners/blob/master/21_WindowFunctions_Solutions.sql)
+
+**Follow along with the demo** using [22_StoredProcedures_Demo.sql](https://github.com/LitKnd/TSQLBeginners/blob/master/22_StoredProcedures_Demo.sql)
+
+**Try your hand at the homework** with [23_StoredProcedures_Homework.sql](https://github.com/LitKnd/TSQLBeginners/blob/master/23_StoredProcedures_Homework.sql)
+
+**Sample solutions for Stored Procedures** are in [24_StoredProcedures_Solutions.sql](https://github.com/LitKnd/TSQLBeginners/blob/master/24_StoredProcedures_Solutions.sql)
