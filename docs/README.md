@@ -229,7 +229,7 @@ We'll wrap up our discussion of functions by working through the homework, then 
 
 ### Solutions for Windowing Functions, then Stored Procedures
 
-In our last session, we'll go through our homework on window functions, then do a gentle introduction to Stored Procedures. Want to try the stored procedure homework yourself before seeing the solutions? That's toally fine, you can pause the video at that point.
+In our last session, we'll go through our homework on window functions, then do a gentle introduction to Stored Procedures. Want to try the stored procedure homework yourself before seeing the solutions? Totally fine, you can pause the video at that point.
 
 **Sample solutions for Windowing Functions** are in [21_WindowFunctions_Solutions.sql](https://github.com/LitKnd/TSQLBeginners/blob/master/21_WindowFunctions_Solutions.sql)
 
